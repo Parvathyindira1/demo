@@ -21,7 +21,7 @@ public class Calculator {
 	 Logger logger=Logger.getLogger(Calculator.class.getName());
 		Calculator c =new Calculator();
 	 
-	 logger.info( "result:"+c.add(3, 4));
+	 logger.info( "result:"+c.add(3, 40));
 		logger.info("result:"+c.add("swapna","parvathy","hiran"));
 		logger.info( "result:"+c.add(3, 4,9));
 	}
